@@ -16,4 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=HoangDuck&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=HoangDuck&icon=0&color=0)](https://visitcount.itsvg.in)
