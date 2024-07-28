@@ -1,6 +1,6 @@
 # 💫About Me :
 - I'm currently working at T&E ExecutionLab
-- I'm a mobile developer using Dart/Flutter
+- I'm a junior mobile developer using Dart/Flutter
 - Now I'm interested in Swift/IOS
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duck-ute/) 
