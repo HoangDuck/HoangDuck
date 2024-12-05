@@ -1,7 +1,7 @@
 # 💫About Me :
 - I'm currently working at T&E ExecutionLab
 - I'm a junior mobile developer using Dart/Flutter
-- Now I'm interested in Swift/IOS
+- Now I'm interested in SwiftUI/IOS
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duck-ute/) 
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/HoangDuck)
